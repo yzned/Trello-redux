@@ -1,0 +1,21 @@
+.Main_Page{
+    background-color: #A8E4A0;
+    width: 100vw;
+    height: 100vh;
+}
+.Main_Page_Header{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    .Header_username{
+        display: flex;
+    }
+    .logo{
+        font-size: 44px;
+    }
+}
+.Columns{
+    display: flex;
+    justify-content: space-between;
+}

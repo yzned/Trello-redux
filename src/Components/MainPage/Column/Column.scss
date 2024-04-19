@@ -1,0 +1,14 @@
+.Column{
+    display: flex;
+    flex-direction: column;
+    width: 24%;
+    border-radius: 10px;
+    background-color: #A8E4A0;
+}
+.Column_Name{
+    font-weight: 600;
+    font-size: 30px;
+    cursor: pointer;
+    border: none;
+    background:transparent;
+}
